@@ -1,8 +1,7 @@
 Algoritmo "testa_logica_ou"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : Algoritmo
+// Descrição   : Programa que lê um gênero e devolve se é válido ou não.
+// Autor(a)    : Lucas Pereira de Lima
 // Data atual  : 28/10/2022
 Var
 
