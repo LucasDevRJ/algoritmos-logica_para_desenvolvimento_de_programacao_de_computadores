@@ -1,6 +1,6 @@
 Algoritmo "REAJUSTE_SALARIO"
 // Disciplina   : Algoritmo
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : Programa lê um salário e forma um novo salário, dependendo da condição do valor dele, para assim exibi-lo.
 // Autor(a)    : Lucas Pereira de Lima
 // Data atual  : 28/10/2022
 Var
