@@ -24,10 +24,16 @@ Inicio
          B <- TROCA
       fimse
       
-      se (B > C) entao
+      se (A > C) entao
          TROCA <- A
-         A <- B
-         B <- TROCA
+         A <- C
+         C <- TROCA
+      fimse
+      
+      se (B > C) entao
+         TROCA <- B
+         B <- C
+         C <- TROCA
       fimse
       
       escreval(A)
