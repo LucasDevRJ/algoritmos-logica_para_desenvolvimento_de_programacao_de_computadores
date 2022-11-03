@@ -1,7 +1,7 @@
 Algoritmo "LACO_POS_TESTE_FALSO_VA"
 // Disciplina   : Algoritmo
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : Exemplo de laço com condiconal pós-teste.
+// Autor(a)    : Lucas Pereira de Lima
 // Data atual  : 03/11/2022
 Var
 
@@ -18,7 +18,9 @@ Inicio
 
          R <- N * 3
 
-         escreval(N, " x 3=", R)
+         escreval(N, " x 3 =", R)
+         
+         I <- I + 1
       
       ate (I > 5)
 
