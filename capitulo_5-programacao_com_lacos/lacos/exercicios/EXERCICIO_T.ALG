@@ -1,8 +1,7 @@
 Algoritmo "EXERCICIO_T"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : Algoritmo
+// Descrição   : Programa que calcula os valores ao quadrado, da faixa de 15 a 200, pulando de 3 em 3.
+// Autor(a)    : Lucas Pereira de Lima
 // Data atual  : 07/11/2022
 Var
 
