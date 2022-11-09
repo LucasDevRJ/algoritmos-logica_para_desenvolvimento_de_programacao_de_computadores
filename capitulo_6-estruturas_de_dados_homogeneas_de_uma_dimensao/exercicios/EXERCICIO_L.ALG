@@ -19,13 +19,13 @@ Inicio
    para I de 1 ate 10 passo 1 faca
       B[I] <- A[I] / 2
    fimpara
-   
+
    escreval()
    escreval("Elementos do vetor A:")
    para I de 1 ate 10 passo 1 faca
       escreva(A[I], " ")
    fimpara
-   
+
    escreval()
    escreval("Elementos do vetor B:")
    para I de 1 ate 10 passo 1 faca
