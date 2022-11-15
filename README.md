@@ -21,11 +21,12 @@ Este projeto foi baseado em um livro de algoritmos, então neste projeto encontr
 
 **Para ter acesso ao projeto basta clona-lo através do comando `git clone + url do projeto`**
 
-**Ou você pode baixar o projeto clicando [aqui]() e coloca-lo no [VisualG](http://visualg3.com.br/download/2086/)**
+**Ou você pode baixar o projeto clicando [aqui]() e coloca-lo no [VisualG](https://sourceforge.net/projects/visualg30/files/latest/download)**
+
 
 ## 🛠️ Abrir e rodar o projeto
 
-**1. Tenha o [VisualG](http://visualg3.com.br/download/2086/) baixado no seu computador**
+**1. Tenha o [VisualG](https://sourceforge.net/projects/visualg30/files/latest/download) baixado no seu computador**
 
 **2. Tenha este projeto clonado ou baixado no VisualG**
 
