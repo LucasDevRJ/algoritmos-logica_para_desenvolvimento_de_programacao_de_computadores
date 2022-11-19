@@ -5,7 +5,6 @@ Projeto   | Algoritmos
 --------- | ------
 Desenvolvedor | Lucas Pereira de Lima
 GitHub | LucasPereiraDev
-Autoral | Sim
 Conteúdo | Lógica de Programação
 Livro | Algoritmos
 
