@@ -10,7 +10,7 @@ Var
    C : vetor[1..50] de inteiro
    RESP : caracter
    ACHA : logico
-   I, J, PESQ, COMECO, FINAL MEIO, X : inteiro
+   I, J, PESQ, COMECO, FINAL, MEIO, X : inteiro
 
 Inicio
 
