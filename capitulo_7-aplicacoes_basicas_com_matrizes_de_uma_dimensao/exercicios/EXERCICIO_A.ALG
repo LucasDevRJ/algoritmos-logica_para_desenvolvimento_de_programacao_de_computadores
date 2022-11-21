@@ -1,33 +1,36 @@
 Algoritmo "EXERCICIO_A"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : Algoritmo
+// Descrição   : Programa que recebe 12 valores em um vetor e os exibe em ordem decrescente.
+// Autor(a)    : Lucas Pereira de Lima
 // Data atual  : 20/11/2022
 Var
 
-   A : vetor[1..4] de inteiro
+   A, B : vetor[1..12] de inteiro
    I, J, TROCA : inteiro
 
 Inicio
 
-   para I de 1 ate 4 passo 1 faca
+   para I de 1 ate 12 passo 1 faca
       escreva("Digite o ", I, "º elemento: ")
       leia(A[I])
    fimpara
    
-   para I de 1 ate 4 passo 1 faca
-        para J de 1+I ate 4 passo 1 faca
-             se (A[I] > A[J]) entao
-                TROCA <- A[I]
-                A[I] <- A[J]
-                A[J] <- TROCA
+   para I de 1 ate 12 passo 1 faca
+        B[I] <- A[I]
+   fimpara
+   
+   para I de 1 ate 12 passo 1 faca
+        para J de 1 ate 12 passo 1 faca
+             se (B[I] < B[J]) entao
+                TROCA <- B[I]
+                B[I] <- B[J]
+                B[J] <- TROCA
              fimse
         fimpara
    fimpara
-   
-   para I de 1 ate 4 passo 1 faca
-      escreva(A[J], " ")
+
+   para I de 1 ate 12 passo 1 faca
+      escreva(B[I], " ")
    fimpara
 
 Fimalgoritmo
