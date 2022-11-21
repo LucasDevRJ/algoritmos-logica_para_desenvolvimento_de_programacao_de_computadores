@@ -5,25 +5,25 @@ Algoritmo "EXERCICIO_B"
 // Data atual  : 20/11/2022
 Var
 
-   A, B : vetor[1..4] de inteiro
+   A, B : vetor[1..8] de inteiro
    I, J, COMECO, FINAL, MEIO, PESQ, TROCA : inteiro
    RESP : caracter
    ACHA : logico
 
 Inicio
 
-   para I de 1 ate 4 passo 1 faca
+   para I de 1 ate 8 passo 1 faca
       escreva("Digite o ", I, "º elemento do vetor A: ")
       leia(A[I])
    fimpara
 
-   para I de 1 ate 4 passo 1 faca
+   para I de 1 ate 8 passo 1 faca
       B[I] <- A[I] * 5
    fimpara
 
 
-   para I de 1 ate 4 passo 1 faca
-      para J de 1+I ate 4 passo 1 faca
+   para I de 1 ate 8 passo 1 faca
+      para J de 1+I ate 8 passo 1 faca
          se (B[I] > B[J]) entao
             TROCA <- B[I]
             B[I] <- B[J]
@@ -37,7 +37,7 @@ Inicio
       escreva("Digite o valor a ser pesquisado: ")
       leia(PESQ)
       COMECO <- 1
-      FINAL <- 4
+      FINAL <- 8
       ACHA <- FALSO
       enquanto (COMECO <= FINAL) e (ACHA = FALSO) faca
          MEIO <- (COMECO + FINAL) div 2
