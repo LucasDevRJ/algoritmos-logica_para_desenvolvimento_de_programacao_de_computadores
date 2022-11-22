@@ -1,8 +1,7 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "EXERCICIO_G"
+// Disciplina   : Algoritmo
+// Descrição   : Algoritmo que recebe vetores A e B. Sendo o vetor B elementos de A acrescido de dois. Possuindo a pesquisa binária e sendo exibidos de ordem crescente.
+// Autor(a)    : Lucas Pereira de Lima
 // Data atual  : 22/11/2022
 Var
 
